@@ -32,8 +32,10 @@ I love developing intuitive, beautiful, and fast Android apps.
 
 ---
 
-![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=твій_нікнейм&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=твій_нікнейм&layout=compact&theme=tokyonight)
+![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JozyMont&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JozyMont&layout=compact&theme=tokyonight)
 
 ---
 
