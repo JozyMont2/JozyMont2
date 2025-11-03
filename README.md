@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vlad Korol!
+# 👋 Hi, I'm JozyMont
 
 ### 🧑‍💻 Android Developer | Kotlin Enthusiast | UI Creator
 
