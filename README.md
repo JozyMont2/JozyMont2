@@ -27,7 +27,7 @@ I love developing intuitive, beautiful, and fast Android apps.
 ---
 
 ### 📫 You can contact me:
-- 💻 [GitHub](https://github.com/твій_никнейм)
+- 💻 [GitHub](https://github.com/JozyMont2)
 - ✉️ Email: **korolv900@gmail.com**
 
 ---
