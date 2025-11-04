@@ -2,10 +2,15 @@
 
 ### 🧑‍💻 Android Developer | Kotlin Enthusiast | UI Creator
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)   
+<div style="pointer-events: none;">
 
-I'm building mobile apps in **Kotlin** using **Android Studio**.
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+</div>
+
+I'm building mobile apps in **Kotlin** using **Android Studio**.  
 I love developing intuitive, beautiful, and fast Android apps.
 
 ---
@@ -20,8 +25,8 @@ I love developing intuitive, beautiful, and fast Android apps.
 ---
 
 ### ⚙️ My technology stack:
-<p>
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,gradle" />
+<p align="center" style="pointer-events: none;">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,gradle" />
 </p>
 
 ---
@@ -32,10 +37,12 @@ I love developing intuitive, beautiful, and fast Android apps.
 
 ---
 
+<div style="pointer-events: none;">
+
 ![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JozyMont&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JozyMont&layout=compact&theme=tokyonight)
 
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JozyMont&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
