@@ -1,4 +1,4 @@
-# 👋 Hi, I'm JozyMont
+# 👋 Hi, I'm Montix 
 
 ### 🧑‍💻 Android Developer | Kotlin Enthusiast | UI Creator
 
