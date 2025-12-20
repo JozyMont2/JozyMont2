@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Montix 
+# 👋 Hi, I'm Montrix 
 
 ### 🧑‍💻 Android Developer | Kotlin Enthusiast | UI Creator
 
